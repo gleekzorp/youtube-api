@@ -2,8 +2,10 @@
 
 FreeCodeCamp newsletter came through and I saw this tutorial and decided to give it a try.
 
-[Blog](https://www.freecodecamp.org/news/youtube-clone-app/)
-[Youtube](https://www.youtube.com/watch?v=VPVzx1ZOVuw&feature=youtu.be)
+- [Blog](https://www.freecodecamp.org/news/youtube-clone-app/)
+- [YouTube](https://www.youtube.com/watch?v=VPVzx1ZOVuw&feature=youtu.be)
+- [GitHub](https://github.com/adrianhajdin/project_youtube_video_player)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## Setup:
 
